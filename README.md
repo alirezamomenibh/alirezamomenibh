@@ -1,6 +1,6 @@
 # Hi, I'm Alireza 👋
 
-🎓 B.Sc. Informatik Student at Johannes Gutenberg University Mainz
+🎓 B.Sc. Computer Science Student Student at Johannes Gutenberg University Mainz
 
 💻 Interested in:
 

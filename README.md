@@ -1,22 +1,20 @@
 # Hi, I'm Alireza 👋
 
-🎓 B.Sc. Computer Science Student Student at Johannes Gutenberg University Mainz
+🎓 B.Sc. Computer Science | Johannes Gutenberg University Mainz
 
 💻 Interested in:
-
-* IT Support
-* System Administration
-* System Integration
-* Networking
-* Software Development
+- Software Development
+- Backend Development
+- Python Development
+- System Administration
+- IT Infrastructure
 
 🛠 Technologies:
-
-* Python
-* Java
-* Scala
-* Windows
-* SQL Server
-* Git
+• Python
+• Java
+• Scala
+• Git
+• SQL Server
+• Windows
 
 📍 Mainz, Germany
